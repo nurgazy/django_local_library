@@ -134,4 +134,4 @@ dmypy.json
 #Database
 *.sqlite3
 
-.idea
+.idea/
